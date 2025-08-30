@@ -14,7 +14,7 @@ Welcome! This repository showcases a collection of data science projects I’ve 
 - **Key skills learned**: Data cleaning, feature engineering, classification modeling, model evaluation, and interpreting medical datasets.
 
 
-### Project 2: "T_Eelen_Final_Exam.ipynb" - Predicting Drug Usage with Classification Models
+### Project 2: Predicting Drug Usage with Classification Models (Final Exam)
 
 - **Description**: Built machine learning models to predict whether individuals had ever used different categories of drugs, based on demographic, personality, and risk-seeking features. Explored feature engineering, categorical encoding, and model evaluation.
 
