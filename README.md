@@ -28,7 +28,7 @@ Welcome! This repository showcases a collection of data science projects I’ve 
 - **Key skills demonstrated**: Feature engineering, classification modeling, neural networks, subgroup analysis, model evaluation.
 
 
-- ### Project 3: Predicting Budget-Friendly Airbnb Listings in Paris
+### Project 3: Predicting Budget-Friendly Airbnb Listings in Paris
 
 - **Description**: Analyzed Airbnb listings data from Paris to identify the strongest predictors of budget-friendly accommodations (<25% of price distribution). The project aimed to understand whether pricing patterns at the low end of the market are formulaic or influenced by subjective factors.  
 - **Tasks & Approach**: Cleaned and preprocessed 64,690 raw entries down to 13,690 usable listings. Engineered features such as number of amenities, created price categories, and trained logistic regression models. Evaluated model accuracy with cross-validation, focusing on classification of low-price listings.  
