@@ -36,5 +36,11 @@ Welcome! This repository showcases a collection of data science projects I’ve 
 - **Key skills learned**: Data cleaning and preprocessing, feature engineering, logistic regression modeling, cross-validation, interpreting pricing dynamics in real-world markets.  
 
 
+### Project 4: Quantitative Investing – Factor Backtesting and Multi-Factor Models
+
+- **Description**: Built and tested factor-based investment strategies, analyzing the performance of value, growth, quality, and momentum factors across different time horizons. Developed a multi-factor model to evaluate how combining factors affects returns compared to individual factor performance.  
+- **Tasks & Approach**: Conducted factor backtests by creating decile portfolios, measuring returns and hit rates, and calculating long-short spreads. Analyzed factor correlations and persistence through the information coefficient (IC). Designed and tested multi-factor models with different weighting schemes to assess predictive strength relative to standalone factors.  
+- **Tech stack**: R, data.table, ggplot2.  
+- **Key skills learned**: Factor modeling, portfolio backtesting, correlation analysis, building and interpreting multi-factor investment models, performance evaluation over different horizons.  
 
 
