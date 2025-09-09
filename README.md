@@ -38,7 +38,7 @@ Welcome! This repository showcases a collection of data science projects I’ve 
 
 ### Project 4: Quantitative Investing – Factor Backtesting and Multi-Factor Models
 
-- **Description**: Built and tested factor-based investment strategies, analyzing the performance of value, growth, quality, and momentum factors across different time horizons. Developed a multi-factor model to evaluate how combining factors affects returns compared to individual factor performance.  
+- **Description**: Built and tested factor-based investment strategies, analyzing the performance of value, growth, quality, and momentum factors across different time horizons. A portion of the initial code framework was provided by course lecturers, which was then expanded to build and test additional functionality. Developed a multi-factor model to evaluate how combining factors affects returns compared to individual factor performance.  
 - **Tasks & Approach**: Conducted factor backtests by creating decile portfolios, measuring returns and hit rates, and calculating long-short spreads. Analyzed factor correlations and persistence through the information coefficient (IC). Designed and tested multi-factor models with different weighting schemes to assess predictive strength relative to standalone factors.  
 - **Tech stack**: R, data.table, ggplot2.  
 - **Key skills learned**: Factor modeling, portfolio backtesting, correlation analysis, building and interpreting multi-factor investment models, performance evaluation over different horizons.  
